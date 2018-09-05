@@ -1,0 +1,20 @@
+.home {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+.home .react-grid-item .mk-card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home .react-grid-item .ant-card-head {
+  background-color: #efefef;
+  height: 35px;
+}
+.home .react-grid-item .ant-card-body {
+  padding: 0px;
+  flex: 1;
+}
+
